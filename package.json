@@ -1,0 +1,20 @@
+{
+  "name": "timestamp-microserviced",
+  "version": "1.0.0",
+  "description": "Time stamp microservice project for FCC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "timestamp",
+    "FCC",
+    "project"
+  ],
+  "author": "Jerome Tolentino",
+  "license": "ISC",
+  "engines": {
+    "node": "14.15.4"
+  }
+}
